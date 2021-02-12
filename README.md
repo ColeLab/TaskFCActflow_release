@@ -5,6 +5,9 @@ https://doi.org/10.1523/JNEUROSCI.1713-20.2021
 Free versions of paper:
 https://www.colelab.org/pubs/2021_ColeIto.pdf & https://doi.org/10.1101/2020.07.06.187245
 
+This project makes heavy use of the Actflow Toolbox, available here:
+https://colelab.github.io/ActflowToolbox/
+
 View the data analysis Jupyter Notebook for the project here:
 https://colelab.github.io/TaskFCActflow_release/EmpiricalfMRIAnalysis.html
 
