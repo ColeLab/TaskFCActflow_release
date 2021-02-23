@@ -16,4 +16,4 @@ https://github.com/ColeLab/TaskFCActflow_release/blob/main/EmpiricalfMRIAnalysis
 
 More information on the Cole Neurocognition Lab's work: https://www.colelab.org/
 
-
+![Alt text](docs/figures/workingmemory_example.png?raw=true "Fig. 8C: Working memory task fMRI activation prediction example")
